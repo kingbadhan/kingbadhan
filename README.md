@@ -1,4 +1,4 @@
 # king_badhan
-this is our web-app
+In this repo we can add Basic Java Practice Questions
 <br>
 Author - Pankaj Badhan (king_badhan)
